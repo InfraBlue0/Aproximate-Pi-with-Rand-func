@@ -51,7 +51,4 @@ int main(void)
          << "Totale successi: " << successo << endl
          << "Totale lanci: " << totale_lanci << endl
          << "\nTempo impiegato: " << tempo << " secondi!\n\n\n";
-
-    system("pause");
-    system("cls");
 }
